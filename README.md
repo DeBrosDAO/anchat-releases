@@ -37,18 +37,25 @@ AnChat is a decentralized social chat application built on the [Orama Network](h
 
 ## Installation
 
-### Android
+### iOS
 
-#### Direct Download
-1. Go to the [Releases](https://github.com/DeBrosOfficial/anchat-releases/releases) page
-2. Download the latest `.apk` file
-3. Open the APK and install (enable "Install from unknown sources" if prompted)
+1. Install [TestFlight](https://apps.apple.com/app/testflight/id899247664) from the App Store
+2. Open the [TestFlight invitation link](https://testflight.apple.com/join/GzQ2gvx4)
+3. Tap "Accept" to join the beta
+4. Install AnChat Lite from TestFlight
+
+### Android (Google Play)
+
+Download directly from [Google Play](https://play.google.com/store/apps/details?id=debros.anchat_lite).
 
 ### GrapheneOS
 
+#### Direct APK Download
 1. Download the latest APK from [Releases](https://github.com/DeBrosOfficial/anchat-releases/releases)
 2. Open the file using the Files app
-3. Tap **Install** (GrapheneOS allows per-app install permissions)
+3. Tap to install (GrapheneOS handles permissions)
+
+Also available via [Aurora Store](https://auroraoss.com/).
 
 #### Via Obtainium
 [Obtainium](https://github.com/ImranR98/Obtainium) allows you to install and auto-update apps directly from GitHub:
@@ -61,9 +68,9 @@ AnChat is a decentralized social chat application built on the [Orama Network](h
 
 Obtainium will automatically notify you when new versions are available.
 
-### iOS & Play Store
+### Solana Mobile
 
-> **Coming Soon:** We have submitted to Google Play Store and iOS TestFlight — awaiting approval.
+> **Coming Soon:** AnChat Lite will be available on the Solana dApp Store.
 
 ## Access
 
