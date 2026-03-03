@@ -70,7 +70,7 @@ Obtainium will automatically notify you when new versions are available.
 
 ### Solana Mobile
 
-> **Coming Soon:** AnChat Lite will be available on the Solana dApp Store.
+Find AnChat Lite on the Solana dApp Store for Seeker and Saga devices.
 
 ## Access
 
