@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="https://anchat.io">Website</a> •
-  <a href="https://github.com/DeBrosOfficial/anchat-releases/releases">Releases</a> •
+  <a href="https://github.com/DeBrosDAO/anchat-releases/releases">Releases</a> •
   <a href="https://linktr.ee/debrosofficial">Official Links</a>
 </p>
 
@@ -51,7 +51,7 @@ Download directly from [Google Play](https://play.google.com/store/apps/details?
 ### GrapheneOS
 
 #### Direct APK Download
-1. Download the latest APK from [Releases](https://github.com/DeBrosOfficial/anchat-releases/releases)
+1. Download the latest APK from [Releases](https://github.com/DeBrosDAO/anchat-releases/releases)
 2. Open the file using the Files app
 3. Tap to install (GrapheneOS handles permissions)
 
@@ -90,7 +90,7 @@ All NFT holders receive **lifetime premium access**.
 
 ## Issues & Feedback
 
-Found a bug or have a suggestion? Feel free to [open an issue](https://github.com/DeBrosOfficial/anchat-releases/issues) in this repository.
+Found a bug or have a suggestion? Feel free to [open an issue](https://github.com/DeBrosDAO/anchat-releases/issues) in this repository.
 
 ## Links
 
