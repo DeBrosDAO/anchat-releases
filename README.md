@@ -72,6 +72,8 @@ See the [Releases](https://github.com/DeBrosDAO/anchat-releases/releases) page f
 
 ## Installation
 
+#### Requirements: AnChat Lite supports iOS 18.0 or later and Android 14 or later.
+
 ### iOS
 
 1. Install [TestFlight](https://apps.apple.com/app/testflight/id899247664) from the App Store
