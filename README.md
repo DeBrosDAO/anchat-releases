@@ -72,7 +72,27 @@ See the [Releases](https://github.com/DeBrosDAO/anchat-releases/releases) page f
 
 ## Installation
 
-#### Requirements: AnChat Lite supports iOS 18.0 or later and Android 14 or later.
+### Requirements
+
+AnChat Lite supports **iOS 18.0 or later** and **Android 14 or later**.
+
+### Coming from a version older than v5.0.0?
+
+> ⚠️ **A one-time clean install is required.**
+
+AnChat v5.0.0 is a complete rebuild — a brand-new app with a new architecture and
+a new database — so it cannot carry over data from any earlier version (v4.x and
+below). If you still have an older version installed, do a clean install once:
+
+1. **Uninstall the old AnChat app** (v4.x or earlier). Updating over the existing
+   app is **not enough** — the old data must be removed.
+2. **Install the latest AnChat fresh** (v5.0.0 or newer).
+3. Open the app and either **create a new account**, or import an existing
+   **Solana or Ethereum private key**.
+
+> **Already on v5.0.0 or newer?** Nothing to do. When a new version (v5.1, v6, …)
+> is released, just update the app normally — no uninstall, no reinstall, and your
+> account and messages are preserved.
 
 ### iOS
 
