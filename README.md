@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/DeBrosDAO/anchat-releases/releases/latest"><img src="https://img.shields.io/badge/version-5.0.0--beta-6C5CE7" alt="Version 5.0.0-beta"></a>
+  <a href="https://github.com/DeBrosDAO/anchat-releases/releases"><img src="https://img.shields.io/badge/version-5.1.0--beta-6C5CE7" alt="Version 5.1.0-beta"></a>
   <img src="https://img.shields.io/badge/platform-iOS%20%7C%20Android-lightgrey" alt="Platform iOS | Android">
   <img src="https://img.shields.io/badge/status-open%20beta-brightgreen" alt="Open Beta">
 </p>
@@ -56,6 +56,11 @@ See [premium.anchat.io](https://premium.anchat.io) for tiers and pricing.
 - Mini dApp deployment
 
 ## What's New
+
+### v5.1.0-beta
+
+- Bug fixes and stability improvements across the app
+- Update required — older versions will not keep working properly
 
 ### v5.0.0-beta
 
@@ -147,13 +152,14 @@ AnChat is in **open beta** — anyone can create an account, no invite or NFT re
 
 ## Issues & Feedback
 
-Found a bug or have a suggestion? Feel free to [open an issue](https://github.com/DeBrosDAO/anchat-releases/issues) in this repository.
+Found a bug or notice something off? Report it at [g.anchat.io/support](https://g.anchat.io/support), or [open an issue](https://github.com/DeBrosDAO/anchat-releases/issues) in this repository.
 
 ## Links
 
 | | |
 |---|---|
 | Website | [anchat.io](https://anchat.io) |
+| Support | [g.anchat.io/support](https://g.anchat.io/support) |
 | All Links | [linktr.ee/debrosofficial](https://linktr.ee/debrosofficial) |
 | NFT Info | [debros.io/nft](https://debros.io/nft) |
 
