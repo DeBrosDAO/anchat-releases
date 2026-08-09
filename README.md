@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/DeBrosDAO/anchat-releases/releases"><img src="https://img.shields.io/badge/version-5.2.0--beta-6C5CE7" alt="Version 5.2.0-beta"></a>
+  <a href="https://github.com/DeBrosDAO/anchat-releases/releases"><img src="https://img.shields.io/badge/version-5.2.1--beta-6C5CE7" alt="Version 5.2.1-beta"></a>
   <img src="https://img.shields.io/badge/platform-iOS%20%7C%20Android-lightgrey" alt="Platform iOS | Android">
   <img src="https://img.shields.io/badge/status-open%20beta-brightgreen" alt="Open Beta">
 </p>
@@ -58,6 +58,12 @@ See [premium.anchat.io](https://premium.anchat.io) for tiers and pricing.
 
 ## What's New
 
+### v5.2.1-beta
+
+- Bug fixes & improvements
+
+> ⚠️ Beta: the built-in wallet ([RootWallet](https://rootwallet.io)) is not yet audited — use small amounts only while testing.
+
 ### v5.2.0-beta
 
 - **7-day free Premium trial** for new users
@@ -70,10 +76,6 @@ See [premium.anchat.io](https://premium.anchat.io) for tiers and pricing.
 - **Open links in Tor Browser**
 - **Wallet UI/UX improvements**
 - Bug fixes & improvements
-
-**Update required** — older versions will not keep working properly.
-
-> ⚠️ Beta: the built-in wallet ([RootWallet](https://rootwallet.io)) is not yet audited — use small amounts only while testing.
 
 ### v5.1.0-beta
 
