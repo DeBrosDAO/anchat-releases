@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/DeBrosDAO/anchat-releases/releases"><img src="https://img.shields.io/badge/version-5.2.1--beta-6C5CE7" alt="Version 5.2.1-beta"></a>
+  <a href="https://github.com/DeBrosDAO/anchat-releases/releases"><img src="https://img.shields.io/badge/version-5.3.0--beta-6C5CE7" alt="Version 5.3.0-beta"></a>
   <img src="https://img.shields.io/badge/platform-iOS%20%7C%20Android-lightgrey" alt="Platform iOS | Android">
   <img src="https://img.shields.io/badge/status-open%20beta-brightgreen" alt="Open Beta">
 </p>
@@ -33,7 +33,7 @@ AnChat is a decentralized social chat application built on the [Orama Network](h
 - **Direct Messages, Groups & Rooms** — 1-on-1 chats, group conversations, and topic-based rooms
 - **Voice & Video Calls** — Encrypted P2P audio and HD video calling, including background & lock-screen incoming calls
 - **Rich Messaging** — Replies, reactions, mentions, edits, read receipts, and in-chat search
-- **Attachments** — Share photos, videos, voice memos, and documents
+- **Attachments** — Share photos, videos, voice memos, and documents, with multiple photos in a single collage
 - **Stealth Mode** — One tap enables five privacy protections: Touch Reveal, Invite Only, Screenshot Block, Voice Mask, and Ghost Trail
 - **App Lock** — Face ID / Touch ID or a 4- or 6-digit PIN, with an optional duress PIN that silently erases your data under coercion
 - **Vanish** — Delete your account and data completely
@@ -58,11 +58,19 @@ See [premium.anchat.io](https://premium.anchat.io) for tiers and pricing.
 
 ## What's New
 
-### v5.2.1-beta
+### v5.3.0-beta
 
+- **Multiple photos in one message**, arranged as a collage
+- **Voice memos** — play at 1.5x or 2x, and roll straight into the next one you haven't heard
+- **Groups** — sending works reliably at any size, and new members can now read the full history
+- **Typing indicators removed** — one less thing your chats reveal about you
 - Bug fixes & improvements
 
 > ⚠️ Beta: the built-in wallet ([RootWallet](https://rootwallet.io)) is not yet audited — use small amounts only while testing.
+
+### v5.2.1-beta
+
+- Bug fixes & improvements
 
 ### v5.2.0-beta
 
