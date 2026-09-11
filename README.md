@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/DeBrosDAO/anchat-releases/releases"><img src="https://img.shields.io/badge/version-5.5.0--beta-6C5CE7" alt="Version 5.5.0-beta"></a>
+  <a href="https://github.com/DeBrosDAO/anchat-releases/releases"><img src="https://img.shields.io/badge/version-5.5.1--beta-6C5CE7" alt="Version 5.5.1-beta"></a>
   <img src="https://img.shields.io/badge/platform-iOS%20%7C%20Android-lightgrey" alt="Platform iOS | Android">
   <img src="https://img.shields.io/badge/status-open%20beta-brightgreen" alt="Open Beta">
 </p>
@@ -60,6 +60,13 @@ See [premium.anchat.io](https://premium.anchat.io) for tiers and pricing.
 
 ## What's New
 
+### v5.5.1-beta
+
+- **Privacy exceptions now cover a group's rooms**, not only the group itself
+- Bug fixes & improvements
+
+> ⚠️ Beta: the built-in wallet ([RootWallet](https://rootwallet.io)) is not yet audited — use small amounts only while testing.
+
 ### v5.5.0-beta
 
 - **Ghost Trail now hides you inside groups** — you no longer appear in the member list or the @ mention picker, and the member count stays accurate
@@ -70,7 +77,6 @@ See [premium.anchat.io](https://premium.anchat.io) for tiers and pricing.
 - **Android** — turning notifications off now stops the background service too, so it no longer drains battery
 - Bug fixes & improvements
 
-> ⚠️ Beta: the built-in wallet ([RootWallet](https://rootwallet.io)) is not yet audited — use small amounts only while testing.
 
 ### v5.4.0-beta
 
