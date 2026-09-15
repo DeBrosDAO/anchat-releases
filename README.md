@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/DeBrosDAO/anchat-releases/releases"><img src="https://img.shields.io/badge/version-5.5.1--beta-6C5CE7" alt="Version 5.5.1-beta"></a>
+  <a href="https://github.com/DeBrosDAO/anchat-releases/releases"><img src="https://img.shields.io/badge/version-5.6.0--beta-6C5CE7" alt="Version 5.6.0-beta"></a>
   <img src="https://img.shields.io/badge/platform-iOS%20%7C%20Android-lightgrey" alt="Platform iOS | Android">
   <img src="https://img.shields.io/badge/status-open%20beta-brightgreen" alt="Open Beta">
 </p>
@@ -35,7 +35,7 @@ AnChat is a decentralized social chat application built on the [Orama Network](h
 - **Rich Messaging** — Replies, reactions, mentions, edits, read receipts, and in-chat search
 - **Attachments** — Share photos, videos, voice memos, and documents, with multiple photos in a single collage
 - **Folders** — Group your chats into folders on the chat list (Premium and VIP)
-- **Stealth Mode** — One tap enables five privacy protections: Touch Reveal, Invite Only, Screenshot Block, Voice Mask, and Ghost Trail. Ghost Trail and Voice Mask can be lifted per conversation
+- **Stealth Mode** — One tap enables six privacy protections: Touch Reveal, Invite Only, Screenshot Block, Voice Mask, Ghost Trail, and Wallet Cloak. Ghost Trail, Voice Mask and Wallet Cloak can be lifted per conversation
 - **App Lock** — Face ID / Touch ID or a 4- or 6-digit PIN, with an optional duress PIN that silently erases your data under coercion
 - **Referrals** — Your username is your referral code. Earn 20% of what the people you bring in pay for Premium or VIP, in the same token they paid with, on every renewal
 - **Vanish** — Delete your account and data completely
@@ -60,12 +60,21 @@ See [premium.anchat.io](https://premium.anchat.io) for tiers and pricing.
 
 ## What's New
 
+### v5.6.0-beta
+
+- **Wallet Cloak** — a sixth Stealth Mode protection. Keep yourself out of your friends' send-crypto list, and lift it in the direct chats you choose
+- **Reorder folders** — long-press a folder and choose Reorder folders
+- **Privacy exceptions follow membership** — leave or delete a chat and its exceptions go with it, so rejoining later starts clean
+- **Chat requests** now show only in All chats, not inside every folder
+- Bug fixes & improvements
+
+> ⚠️ Beta: the built-in wallet ([RootWallet](https://rootwallet.io)) is not yet audited — use small amounts only while testing.
+
 ### v5.5.1-beta
 
 - **Privacy exceptions now cover a group's rooms**, not only the group itself
 - Bug fixes & improvements
 
-> ⚠️ Beta: the built-in wallet ([RootWallet](https://rootwallet.io)) is not yet audited — use small amounts only while testing.
 
 ### v5.5.0-beta
 
